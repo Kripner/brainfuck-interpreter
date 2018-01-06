@@ -1,0 +1,2 @@
+// print all possible characters (0-255)
+.+[.+]

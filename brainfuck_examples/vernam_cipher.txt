@@ -1,0 +1,5 @@
+// Encrypt the input by the vernam cipher. The input has to be in format kzkzkz... where k is the key character and z is
+// the message character.
+// Note that this program use alphabet (not ASCII) values of the key, so there has to be that ugly line of minuses. Please
+// consider that when you compare the program's length.
+,[------------------------------------------------------------------------------------------------>,<[->+<]>.,]

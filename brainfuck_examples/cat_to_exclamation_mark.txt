@@ -1,0 +1,2 @@
+// print all characters given in input file up to an exclamation mark ('!') each on single line
+>+[+++++++++++++++++++++++++++++++++>,---------------------------------]<[<]>>[.>]

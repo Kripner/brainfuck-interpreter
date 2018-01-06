@@ -1,0 +1,2 @@
+// print all characters given in input file each on single line
+,[.>++++++++++.>,]
